@@ -33,3 +33,6 @@ Loja 4 tem o menor frete médio (R$ 31,28), mas isso não reflete em melhor dese
 
 # ✅ Conclusão Estratégica
 A loja com pior desempenho geral foi a Loja 4 , sendo recomendada para venda ou reestruturação. Ela teve o menor faturamento, avaliação apenas média e não liderada em nenhuma métrica além do frete.
+
+# 🌍 Análise de Desempenho Geográfico
+O mapa de calor foi suprimido por dificuldades técnicas de disponibuliza-lo no github.
